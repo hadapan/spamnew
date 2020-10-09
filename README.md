@@ -6,9 +6,9 @@
   $ pkg install git
   $ pkg install python python2
   $ pip2 install mechanize requests bs4
-  $ git clone https://github.com/hadapan/spamernew
+  $ git clone https://github.com/hadapan/spamnew
 
-  $ cd spamernew
+  $ cd spamnew
 
   $ python2 Lpoint.py
   ```
